@@ -1,3 +1,6 @@
+1.1.2
+  - Fixed units for InjectedRadioactivityUnits
+  - Corrected errors with sub-01/ses-blocked/pet metadata
 1.1.1 2024-08-19
   - added bloodstream derivatives
 1.1.0 2024-08-19
