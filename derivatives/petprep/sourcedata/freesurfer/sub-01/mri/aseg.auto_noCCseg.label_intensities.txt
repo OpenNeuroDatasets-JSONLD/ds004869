@@ -1,1 +1,0 @@
-../../../../../../.git/annex/objects/Fx/qp/SHA256E-s1502--aca83fdfaaaef4118d0cf2bde975fa5bcfc1f33d897ba2dffc5c06bcd4ad65f8.auto_noCCseg.label_intensities.txt/SHA256E-s1502--aca83fdfaaaef4118d0cf2bde975fa5bcfc1f33d897ba2dffc5c06bcd4ad65f8.auto_noCCseg.label_intensities.txt
