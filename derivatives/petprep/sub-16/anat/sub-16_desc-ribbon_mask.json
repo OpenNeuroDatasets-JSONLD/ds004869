@@ -1,6 +1,6 @@
 {
   "RawSources": [
-    "/deriv/petprep/sub-16/anat/sub-16_desc-preproc_T1w.nii.gz"
+    "/data/sub-16/anat/sub-16_T1w.nii.gz"
   ],
   "Type": "ROI"
 }
